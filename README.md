@@ -2,7 +2,7 @@
   <img src="https://envs.sh/WU6.jpg" alt="VJ-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  RISHU VJ FILTER BOT
+  DEEPU VJ FILTER BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+RISHU+VJ+Filter+Bot!)
